@@ -1,0 +1,9 @@
+{
+  "items":[
+    {"type": "t-shiry",
+      "gender": "female",
+      "color":"pink",
+      "image":"../img/pink_t.png"
+    }]
+
+}
